@@ -138,22 +138,6 @@ The model captures limited variance in app ratings. While quantitative variables
 
 ---
 
-## How to Run
-
-```bash
-# Clone the repository
-git clone <your-repo-link>
-
-# Navigate to the project directory
-cd app-rating-prediction
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Run the notebook or script
-```
-
----
 
 ## Author
 
